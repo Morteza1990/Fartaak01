@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fartaak</string>
+    <string name="tipone">TipOne</string>
+    <string name="contentDescription">TODO</string>
+    <string name="log_in">ورود</string>
+    <string name="sign_in">ثبت نام</string>
+</resources>
